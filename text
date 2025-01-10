@@ -1,0 +1,1 @@
+giả lập việc lấy dữ liệu từ API. lấy dữ liệu và quản lý trạng thái UI thông qua GetX. và hiển thị danh sách người dùng và xử lý trạng thái loading. Màn hình sẽ hiển thị một danh sách người dùng sau khi dữ liệu được tải từ User RemoteDataSource.
